@@ -1,34 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-
-@Senjuti
-Senjuti
-/
-PizzaApp
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Beta Try the new code view
-PizzaApp/.gitignore
-@Senjuti
-Senjuti Initial commit
-Latest commit ce534dc 5 minutes ago
- History
- 1 contributor
-129 lines (105 sloc)  1.76 KB
+# PyCharm
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
